@@ -10,7 +10,7 @@ I upload codes topic-wise as I learn new concepts.
 ```
 DSA-/
 ├── 1_cpp_basic/        # Basic C++ programs
-├── 2_ARRAY/            # Array problems
+├── 2_ARRAY/            # (Upcoming)Array problems
 ├── 3_LINKED_LIST/      # (Upcoming) Linked list problems
 ├── 4_STACK_QUEUE/      # (Upcoming) Stack & Queue
 ├── 5_RECURSION/        # (Upcoming) Recursion problems
@@ -25,11 +25,7 @@ DSA-/
 ### 1. C++ Basics
 
 * [CPP BASIC ](1_cpp_basic)
-  
 
-### 2. Arrays
-
-* [ARRAY](2_ARRAY)
 
 
 *(More topics will be added as I learn them)*
@@ -41,16 +37,9 @@ DSA-/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/vaibhav-belekar/DSA-.git
-   cd DSA-
-   ```
+https://github.com/AdityaDaghale/DSA-C-.git
+cd DSA-C-   ```
 
-2. Compile a program (example: `linear_search.cpp`)
-
-   ```bash
-   g++ 2_ARRAY/linear_search.cpp -o linear_search
-   ./linear_search
-   ```
 
 ---
 
@@ -58,8 +47,8 @@ DSA-/
 
 * **Language Used**: C++
 * **Purpose**: Practice & revision of DSA concepts
-* **Author**: [Vaibhav Belekar](https://github.com/vaibhav-belekar)
 
 ---
 
 ⭐ If you find this helpful, consider giving it a star!
+

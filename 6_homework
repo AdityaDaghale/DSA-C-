@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int n=7;
+    bool isprime=true;
+    for(int i=2;i*i<=n;i++){
+        if(n%2==0){
+            isprime=false;
+            break;
+        }
+    }
+
+    if(isprime==true){
+        cout<<" no is  prime"<<endl;
+    }else{
+        cout<<" no is non prime "<<endl;
+    }
+    return 0;
+}
